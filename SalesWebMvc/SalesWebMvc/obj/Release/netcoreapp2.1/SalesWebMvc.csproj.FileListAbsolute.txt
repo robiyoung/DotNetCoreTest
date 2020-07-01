@@ -41,3 +41,8 @@ C:\tmp\CSharp\DotNetCoreTest\SalesWebMvc\SalesWebMvc\obj\Release\netcoreapp2.1\S
 C:\tmp\CSharp\DotNetCoreTest\SalesWebMvc\SalesWebMvc\obj\Release\netcoreapp2.1\SalesWebMvc.pdb
 C:\tmp\CSharp\DotNetCoreTest\SalesWebMvc\SalesWebMvc\obj\Release\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
 C:\tmp\CSharp\DotNetCoreTest\SalesWebMvc\SalesWebMvc\obj\Release\netcoreapp2.1\SalesWebMvc.csproj.CoreCompileInputs.cache
+C:\tmp\CSharp\DotNetCoreTest\SalesWebMvc\SalesWebMvc\obj\Release\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
+C:\tmp\CSharp\DotNetCoreTest\SalesWebMvc\SalesWebMvc\obj\Release\netcoreapp2.1\Razor\Views\Sellers\Create.cshtml.g.cs
+C:\tmp\CSharp\DotNetCoreTest\SalesWebMvc\SalesWebMvc\obj\Release\netcoreapp2.1\Razor\Views\Sellers\Delete.cshtml.g.cs
+C:\tmp\CSharp\DotNetCoreTest\SalesWebMvc\SalesWebMvc\obj\Release\netcoreapp2.1\Razor\Views\Sellers\Details.cshtml.g.cs
+C:\tmp\CSharp\DotNetCoreTest\SalesWebMvc\SalesWebMvc\obj\Release\netcoreapp2.1\Razor\Views\Sellers\Edit.cshtml.g.cs
